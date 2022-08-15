@@ -1,0 +1,55 @@
+body {
+  background: #f2f2f2;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.card {
+  border: ridge 5px black;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 30px;
+  width: 642px;
+}
+
+.logo {
+  border: ridge 5px black;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  padding-top: 18px;
+}
+
+.btn {
+  display: flex;
+  margin-bottom: 20px;
+  border: 3px solid black;
+  border-radius: 8px;
+  width: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  font-weight: bold;
+}
+
+.motto {
+  color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  font-weight: lighter;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  border: ridge 5px black;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.width {
+  width: 600px;
+}
