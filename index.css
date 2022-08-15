@@ -1,5 +1,5 @@
 body {
-  background: #f2f2f2;
+  background: #white;
   margin-right: auto;
   margin-left: auto;
 }
@@ -21,6 +21,7 @@ body {
   margin-right: auto;
   margin-bottom: 30px;
   padding-top: 18px;
+  background: white;
 }
 
 .btn {
